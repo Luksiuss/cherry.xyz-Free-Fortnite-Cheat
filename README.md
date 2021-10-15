@@ -3,5 +3,33 @@ cherry.xyz Free Fortnite Cheat
 cherry.xyz Discord Server: https://discord.gg/nXSmJbpxBX
 
 
-
+Features:
+-Memory Aim
+-Silent Aim
+-Mouse Aim
+--------------
+-VISUALS
+-2D BOX
+-3D BOX
+-SNAPLINES
+-DISTANCE ESP
+-NAME ESP
+-----------
+-EXPLOITS
+-AIRSTUCK
+-FAST RELOAD
+-SPEEDHACK
+-BOAT FLY
+-BULLET TP (IN VEHICLE)
+-VEHICLE TP
+-RAPID FIRE
+-NO ANIMATION WHEN SWITCHING WEAPONS
+-AIM WHILE JUMPING
+-INSTANT REVIVE
+-INSTA ACTIONS
+----------
+-MISC
+-CROSSHAIR
+-RADAR ESP
+-VISIBLE CHECK
 
